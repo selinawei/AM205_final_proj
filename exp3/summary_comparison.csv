@@ -1,0 +1,5 @@
+Line_Search_Strategy,Converged,Iterations,Final_f(x),Final_Error,Final_Gradient_Norm,Curvature_Violations,Violation_Rate_%
+No line search (alpha=1),True,100,6.7053176943786e-30,3.1791949213824896e-15,4.103102625289726e-11,2,2.0202020202020203
+Armijo,True,38,1.0463500350658077e-28,2.1003177935491538e-14,1.3637818837382283e-11,0,0.0
+Regular Wolfe,True,35,7.308796286872674e-28,4.251038017286612e-14,4.183420756748732e-11,0,0.0
+Strong Wolfe,True,38,0.0,0.0,5.567232697567937e-12,0,0.0

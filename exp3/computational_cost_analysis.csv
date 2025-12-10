@@ -1,0 +1,5 @@
+Method,Iterations,Total_F_Evals,Total_G_Evals,Avg_F_per_Iter,Avg_G_per_Iter,Total_Cost
+No line search (alpha=1),100,101,101,1.01,1.01,202
+Armijo,38,95,39,2.5,1.0263157894736843,134
+Regular Wolfe,35,98,82,2.8,2.342857142857143,180
+Strong Wolfe,38,96,77,2.526315789473684,2.026315789473684,173
